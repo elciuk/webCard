@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    min-height:50%;
+    max-height:100%;
+    background-color:grey;
+}
+
+.card{
+    width: 75vw;
+    height: 50vh;
+    position: fixed;
+    margin: 25vh 12.5vw 25vh 12.5vw;
+    background-image: linear-gradient(to bottom left, #00fb9e, #0b88e1);
+    box-shadow: 15px 15px 25px black;
+}
